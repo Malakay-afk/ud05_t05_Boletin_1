@@ -8,10 +8,13 @@
 </head>
 <body>
     <?php
-
+   
+    
     echo "Toiriz de Arnego"."</br>"; // echo "Toririz de Arnego </br> tamen funciona"
     echo "678772100";
 
     ?>
 </body>
 </html>
+
+
