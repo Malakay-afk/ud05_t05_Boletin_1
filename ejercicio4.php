@@ -31,10 +31,10 @@
                     if(count($modulos)==1){
                         echo "<td colspan='5'>".$m."</td>";
                     }else{
-                        echo "<td>".$m."</td>"
+                        echo "<td>".$m."</td>";
                     }
                 }
-                
+        
                 echo "</tr>";
             }
             echo "</table>";
