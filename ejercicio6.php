@@ -10,7 +10,6 @@
     <?php
         $nombre="Miguel García Ramos";
         echo "$nombre"
-
     ?>
     
 </body>
