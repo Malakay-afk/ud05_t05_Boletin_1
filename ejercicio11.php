@@ -9,10 +9,16 @@
 </head>
 <body>
     <?php
-        $linea="";
-        for ($i=1;$i<=9;$c++);
-        $linea=$linea."*";
-        echo "$linea"."<br>"
+        echo "<pre>";
+        echo "*<br>";
+        echo "**<br>";
+        $blancos="";
+        for ($i=1;$i<=6;$i++){
+        $blancos=$blancos."&nbsp;";
+        echo "*"."$blancos"."*<br>";
+    }
+    echo "*********";
+    echo "</pre>"
     ?>
     
 </body>

@@ -14,7 +14,17 @@
         $linea=$linea."*";
         echo "$linea.<br>";
     }
+
     ?>
-    
+
+    // for($linea=1; $linea<=9; $linea++){
+    //      for($asterisco=1; $asterisco<=$linea; $asterisco++){ 
+    //          echo"*";
+    //       }    
+    //          echo"<br>";
+    //    }
+    // 
+    // 
+        
 </body>
 </html>
